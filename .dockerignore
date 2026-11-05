@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+notebooks/
+*.ipynb
+*.xlsx
+*.html
+*.db
+.git/
+reports/
